@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/hockeyButton"
+        android:title="Hockey"
+        app:showAsAction="never"/>
+    <item android:id="@+id/footballButton"
+        android:title="FootBall"
+        app:showAsAction="never"/>
+    <item android:id="@+id/CricketButton"
+        android:title="Cricket"
+        app:showAsAction="never"/>
+
+</menu>
